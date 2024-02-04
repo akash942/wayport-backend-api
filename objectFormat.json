@@ -1,0 +1,19 @@
+{
+    "source": "DELHI",
+    "destination": "MUMBAI",
+    "paths": {
+      "0": [
+        { "type": "node", "info": "node info" },
+        { "type": "edge", "info": "edge info" },
+        { "type": "node", "info": "node info" }
+      ],
+      "1": [
+        { "type": "node", "info": "node info" },
+        { "type": "edge", "info": "edge info" },
+        { "type": "node", "info": "node info" },
+        { "type": "edge", "info": "edge info" },
+        { "type": "node", "info": "node info" }
+      ]
+    }
+  }
+  

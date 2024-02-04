@@ -1,0 +1,3977 @@
+{
+  "records": [
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 268959744 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 1, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "23:10",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 6423",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "BLR",
+                  "Departure to": "AMD",
+                  "Departure Time": "21:00",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1155173304420532239",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1"
+              },
+              "end": {
+                "identity": { "low": 1, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VAAH",
+                  "iata_code": "AMD",
+                  "city_name": "Ahmedabad",
+                  "airport_name": "Ahmedabad Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 1, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VAAH",
+                  "iata_code": "AMD",
+                  "city_name": "Ahmedabad",
+                  "airport_name": "Ahmedabad Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1"
+              },
+              "relationship": {
+                "identity": { "low": 1, "high": 282066944 },
+                "start": { "low": 1, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "09:35",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 5125",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "AMD",
+                  "Departure to": "BOM",
+                  "Departure Time": "08:30",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1211468299762663425",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 297795584 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 5, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "22:00",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 903",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "BLR",
+                  "Departure to": "LKO",
+                  "Departure Time": "19:30",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1279022294173220879",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:5"
+              },
+              "end": {
+                "identity": { "low": 5, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VILK",
+                  "iata_code": "LKO",
+                  "city_name": "Lucknow",
+                  "airport_name": "Amausi Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:5"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 5, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VILK",
+                  "iata_code": "LKO",
+                  "city_name": "Lucknow",
+                  "airport_name": "Amausi Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:5"
+              },
+              "relationship": {
+                "identity": { "low": 5, "high": 272105472 },
+                "start": { "low": 5, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "18:45",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 5222",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "LKO",
+                  "Departure to": "BOM",
+                  "Departure Time": "16:30",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1168684103302643717",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:5",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 270532608 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 7, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "11:50",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 443",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "IXB",
+                  "Departure Time": "09:10",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1161928703861587983",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:7"
+              },
+              "end": {
+                "identity": { "low": 7, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VEBD",
+                  "iata_code": "IXB",
+                  "city_name": "Bagdogra",
+                  "airport_name": "Bagdogra Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:7"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 7, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VEBD",
+                  "iata_code": "IXB",
+                  "city_name": "Bagdogra",
+                  "airport_name": "Bagdogra Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:7"
+              },
+              "relationship": {
+                "identity": { "low": 27, "high": 1627389952 },
+                "start": { "low": 7, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "14:35",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 5275",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "IXB",
+                  "Departure to": "BOM",
+                  "Departure Time": "11:30",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:6989586621679009819",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:7",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 298844160 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 8, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "22:15",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 578",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "IXE",
+                  "Departure Time": "21:05",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1283525893800591375",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:8"
+              },
+              "end": {
+                "identity": { "low": 8, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOML",
+                  "iata_code": "IXE",
+                  "city_name": "Mangalore",
+                  "airport_name": "Bajpe Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:8"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 8, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOML",
+                  "iata_code": "IXE",
+                  "city_name": "Mangalore",
+                  "airport_name": "Bajpe Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:8"
+              },
+              "relationship": {
+                "identity": { "low": 27, "high": 1623719936 },
+                "start": { "low": 8, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "21:10",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 164",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "IXE",
+                  "Departure to": "BOM",
+                  "Departure Time": "19:40",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:6973824022983213083",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:8",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 289931264 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 19, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "13:50",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 6535",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "BLR",
+                  "Departure to": "BBI",
+                  "Departure Time": "11:50",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1245245296967942159",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:19"
+              },
+              "end": {
+                "identity": { "low": 19, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VEBS",
+                  "iata_code": "BBI",
+                  "city_name": "Bhubaneswar",
+                  "airport_name": "Bhubaneswar Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:19"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 19, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VEBS",
+                  "iata_code": "BBI",
+                  "city_name": "Bhubaneswar",
+                  "airport_name": "Bhubaneswar Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:19"
+              },
+              "relationship": {
+                "identity": { "low": 27, "high": 1626865664 },
+                "start": { "low": 19, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "19:55",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 5054",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BBI",
+                  "Departure to": "BOM",
+                  "Departure Time": "17:25",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:6987334821865324571",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:19",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 303038464 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 22, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "20:15",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 221",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "IXR",
+                  "Departure Time": "18:05",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1301540292310073359",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:22"
+              },
+              "end": {
+                "identity": { "low": 22, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VERC",
+                  "iata_code": "IXR",
+                  "city_name": "Ranchi",
+                  "airport_name": "Birsa Munda International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:22"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 22, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VERC",
+                  "iata_code": "IXR",
+                  "city_name": "Ranchi",
+                  "airport_name": "Birsa Munda International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:22"
+              },
+              "relationship": {
+                "identity": { "low": 27, "high": 1630535680 },
+                "start": { "low": 22, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "18:30",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 298",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "IXR",
+                  "Departure to": "BOM",
+                  "Departure Time": "15:55",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:7003097420561121307",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:22",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 290455552 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 25, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "18:25",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 851",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "IXC",
+                  "Departure Time": "15:35",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1247497096781627407",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:25"
+              },
+              "end": {
+                "identity": { "low": 25, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VICG",
+                  "iata_code": "IXC",
+                  "city_name": "Chandigarh",
+                  "airport_name": "Chandigarh Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:25"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 25, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VICG",
+                  "iata_code": "IXC",
+                  "city_name": "Chandigarh",
+                  "airport_name": "Chandigarh Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:25"
+              },
+              "relationship": {
+                "identity": { "low": 27, "high": 1631059968 },
+                "start": { "low": 25, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "19:00",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 5234",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "IXC",
+                  "Departure to": "BOM",
+                  "Departure Time": "16:40",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:7005349220374806555",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:25",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 290979840 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 26, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "19:25",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 6017",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "MAA",
+                  "Departure Time": "18:25",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1249748896595312655",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:26"
+              },
+              "end": {
+                "identity": { "low": 26, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOMM",
+                  "iata_code": "MAA",
+                  "city_name": "Chennai",
+                  "airport_name": "Chennai International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:26"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 26, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOMM",
+                  "iata_code": "MAA",
+                  "city_name": "Chennai",
+                  "airport_name": "Chennai International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:26"
+              },
+              "relationship": {
+                "identity": { "low": 26, "high": 282591232 },
+                "start": { "low": 26, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "21:55",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 5149",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "MAA",
+                  "Departure to": "BOM",
+                  "Departure Time": "20:00",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1213720099576348698",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:26",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 299368448 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "23:15",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 5094",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "BLR",
+                  "Departure to": "BOM",
+                  "Departure Time": "21:10",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1285777693614276623",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 1
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 270008320 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 28, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "16:00",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 516",
+                  "frq": { "low": 1356, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "IXU",
+                  "Departure Time": "14:30",
+                  "Effective from": "30-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1159676904047902735",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:28"
+              },
+              "end": {
+                "identity": { "low": 28, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VAAU",
+                  "iata_code": "IXU",
+                  "city_name": "Aurangabad",
+                  "airport_name": "Chikkalthana Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:28"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 28, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VAAU",
+                  "iata_code": "IXU",
+                  "city_name": "Aurangabad",
+                  "airport_name": "Chikkalthana Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:28"
+              },
+              "relationship": {
+                "identity": { "low": 27, "high": 1625292800 },
+                "start": { "low": 28, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "19:20",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 5383",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "IXU",
+                  "Departure to": "BOM",
+                  "Departure Time": "18:25",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:6980579422424268827",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:28",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 296222720 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 29, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "23:20",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 6919",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "COK",
+                  "Departure Time": "22:20",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1272266894732165135",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:29"
+              },
+              "end": {
+                "identity": { "low": 29, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOCI",
+                  "iata_code": "COK",
+                  "city_name": "Kochi",
+                  "airport_name": "Cochin International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:29"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 29, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOCI",
+                  "iata_code": "COK",
+                  "city_name": "Kochi",
+                  "airport_name": "Cochin International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:29"
+              },
+              "relationship": {
+                "identity": { "low": 27, "high": 1624768512 },
+                "start": { "low": 29, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "07:40",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 6702",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "COK",
+                  "Departure to": "BOM",
+                  "Departure Time": "05:45",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:6978327622610583579",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:29",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 306708480 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 32, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "11:15",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 687",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "UDR",
+                  "Departure Time": "09:05",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1317302891005870095",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:32"
+              },
+              "end": {
+                "identity": { "low": 32, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VAUD",
+                  "iata_code": "UDR",
+                  "city_name": "Udaipur",
+                  "airport_name": "Dabok Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:32"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 32, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VAUD",
+                  "iata_code": "UDR",
+                  "city_name": "Udaipur",
+                  "airport_name": "Dabok Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:32"
+              },
+              "relationship": {
+                "identity": { "low": 32, "high": 269484032 },
+                "start": { "low": 32, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "21:35",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 5148",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "UDR",
+                  "Departure to": "BOM",
+                  "Departure Time": "20:00",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1157425104234217504",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:32",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 293076992 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 33, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "23:05",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 977",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "BLR",
+                  "Departure to": "GOI",
+                  "Departure Time": "21:50",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1258756095850053647",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:33"
+              },
+              "end": {
+                "identity": { "low": 33, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VAGO",
+                  "iata_code": "GOI",
+                  "city_name": "Goa",
+                  "airport_name": "Dabolim Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:33"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 33, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VAGO",
+                  "iata_code": "GOI",
+                  "city_name": "Goa",
+                  "airport_name": "Dabolim Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:33"
+              },
+              "relationship": {
+                "identity": { "low": 33, "high": 272629760 },
+                "start": { "low": 33, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "19:55",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 6808",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "GOI",
+                  "Departure to": "BOM",
+                  "Departure Time": "18:45",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1170935903116328993",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:33",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 292028416 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 37, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "17:10",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 852",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "DED",
+                  "Departure Time": "14:10",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1254252496222683151",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:37"
+              },
+              "end": {
+                "identity": { "low": 37, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VIDN",
+                  "iata_code": "DED",
+                  "city_name": "Dehra Dun",
+                  "airport_name": "Dehra Dun Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:37"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 37, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VIDN",
+                  "iata_code": "DED",
+                  "city_name": "Dehra Dun",
+                  "airport_name": "Dehra Dun Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:37"
+              },
+              "relationship": {
+                "identity": { "low": 27, "high": 1632108544 },
+                "start": { "low": 37, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "20:25",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 933",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "DED",
+                  "Departure to": "BOM",
+                  "Departure Time": "18:05",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:7009852820002177051",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:37",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 294649856 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 39, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "20:10",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 6743",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "BLR",
+                  "Departure to": "IDR",
+                  "Departure Time": "18:15",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1265511495291109391",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:39"
+              },
+              "end": {
+                "identity": { "low": 39, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VAID",
+                  "iata_code": "IDR",
+                  "city_name": "Indore",
+                  "airport_name": "Devi Ahilyabai Holkar Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:39"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 39, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VAID",
+                  "iata_code": "IDR",
+                  "city_name": "Indore",
+                  "airport_name": "Devi Ahilyabai Holkar Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:39"
+              },
+              "relationship": {
+                "identity": { "low": 27, "high": 1626341376 },
+                "start": { "low": 39, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "21:10",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 552",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "IDR",
+                  "Departure to": "BOM",
+                  "Departure Time": "19:45",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:6985083022051639323",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:39",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 293601280 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 52, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "20:30",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 7162",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "ATR72",
+                  "Arriving from": "BLR",
+                  "Departure to": "HBX",
+                  "Departure Time": "19:05",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1261007895663738895",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:52"
+              },
+              "end": {
+                "identity": { "low": 52, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VAHB",
+                  "iata_code": "HBX",
+                  "city_name": "Hubli",
+                  "airport_name": "Hubli Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:52"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 52, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VAHB",
+                  "iata_code": "HBX",
+                  "city_name": "Hubli",
+                  "airport_name": "Hubli Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:52"
+              },
+              "relationship": {
+                "identity": { "low": 27, "high": 1627914240 },
+                "start": { "low": 52, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "14:40",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 937",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "HBX",
+                  "Departure to": "BOM",
+                  "Departure Time": "13:45",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:6991838421492695067",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:52",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 294125568 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 53, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "23:10",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 684",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "HYD",
+                  "Departure Time": "22:00",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1263259695477424143",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:53"
+              },
+              "end": {
+                "identity": { "low": 53, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOHY",
+                  "iata_code": "HYD",
+                  "city_name": "Hyderabad",
+                  "airport_name": "Hyderabad International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:53"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 53, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOHY",
+                  "iata_code": "HYD",
+                  "city_name": "Hyderabad",
+                  "airport_name": "Hyderabad International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:53"
+              },
+              "relationship": {
+                "identity": { "low": 53, "high": 288882688 },
+                "start": { "low": 53, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "22:45",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 6229",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "HYD",
+                  "Departure to": "BOM",
+                  "Departure Time": "21:15",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1240741697340571701",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:53",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 292552704 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 54, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "23:30",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 6406",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "BLR",
+                  "Departure to": "DEL",
+                  "Departure Time": "20:30",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1256504296036368399",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:54"
+              },
+              "end": {
+                "identity": { "low": 54, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VIDP",
+                  "iata_code": "DEL",
+                  "city_name": "New Delhi",
+                  "airport_name": "Indira Gandhi International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:54"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 54, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VIDP",
+                  "iata_code": "DEL",
+                  "city_name": "New Delhi",
+                  "airport_name": "Indira Gandhi International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:54"
+              },
+              "relationship": {
+                "identity": { "low": 54, "high": 298319872 },
+                "start": { "low": 54, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "23:25",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 395",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "DEL",
+                  "Departure to": "BOM",
+                  "Departure Time": "21:00",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1281274093986906166",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:54",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 295698432 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 59, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "09:40",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 6032",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "JDH",
+                  "Departure Time": "07:05",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1270015094918479887",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:59"
+              },
+              "end": {
+                "identity": { "low": 59, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VIJO",
+                  "iata_code": "JDH",
+                  "city_name": "Jodhpur",
+                  "airport_name": "Jodhpur Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:59"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 59, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VIJO",
+                  "iata_code": "JDH",
+                  "city_name": "Jodhpur",
+                  "airport_name": "Jodhpur Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:59"
+              },
+              "relationship": {
+                "identity": { "low": 59, "high": 268959744 },
+                "start": { "low": 59, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "11:10",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 392",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "JDH",
+                  "Departure to": "BOM",
+                  "Departure Time": "09:30",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1155173304420532283",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:59",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 298319872 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 75, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "16:40",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 7385",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "ATR72",
+                  "Arriving from": "BLR",
+                  "Departure to": "IXM",
+                  "Departure Time": "15:15",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1281274093986906127",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:75"
+              },
+              "end": {
+                "identity": { "low": 75, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOMD",
+                  "iata_code": "IXM",
+                  "city_name": "Madurai",
+                  "airport_name": "Madurai Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:75"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 75, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOMD",
+                  "iata_code": "IXM",
+                  "city_name": "Madurai",
+                  "airport_name": "Madurai Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:75"
+              },
+              "relationship": {
+                "identity": { "low": 27, "high": 1631584256 },
+                "start": { "low": 75, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "19:10",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 2012",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "IXM",
+                  "Departure to": "BOM",
+                  "Departure Time": "16:55",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:7007601020188491803",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:75",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 297271296 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 83, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "21:00",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 676",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "BLR",
+                  "Departure to": "CCU",
+                  "Departure Time": "18:30",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1276770494359535631",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:83"
+              },
+              "end": {
+                "identity": { "low": 83, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VECC",
+                  "iata_code": "CCU",
+                  "city_name": "Kolkata",
+                  "airport_name": "Netaji Subhash Chandra Bose International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:83"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 83, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VECC",
+                  "iata_code": "CCU",
+                  "city_name": "Kolkata",
+                  "airport_name": "Netaji Subhash Chandra Bose International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:83"
+              },
+              "relationship": {
+                "identity": { "low": 83, "high": 283639808 },
+                "start": { "low": 83, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "21:45",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 5128",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "CCU",
+                  "Departure to": "BOM",
+                  "Departure Time": "18:40",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1218223699203719251",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:83",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 300417024 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 89, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "17:10",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 6277",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "PAT",
+                  "Departure Time": "14:40",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1290281293241647119",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:89"
+              },
+              "end": {
+                "identity": { "low": 89, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VEPT",
+                  "iata_code": "PAT",
+                  "city_name": "Patna",
+                  "airport_name": "Patna Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:89"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 89, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VEPT",
+                  "iata_code": "PAT",
+                  "city_name": "Patna",
+                  "airport_name": "Patna Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:89"
+              },
+              "relationship": {
+                "identity": { "low": 27, "high": 1622671360 },
+                "start": { "low": 89, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "18:35",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 2167",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "PAT",
+                  "Departure to": "BOM",
+                  "Departure Time": "15:50",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:6969320423355842587",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:89",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 291504128 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 90, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "22:15",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 6875",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "CJB",
+                  "Departure Time": "21:20",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1252000696408997903",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:90"
+              },
+              "end": {
+                "identity": { "low": 90, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOCB",
+                  "iata_code": "CJB",
+                  "city_name": "Coimbatore",
+                  "airport_name": "Peelamedu Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:90"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 90, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOCB",
+                  "iata_code": "CJB",
+                  "city_name": "Coimbatore",
+                  "airport_name": "Peelamedu Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:90"
+              },
+              "relationship": {
+                "identity": { "low": 27, "high": 1623195648 },
+                "start": { "low": 90, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "20:05",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 658",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "CJB",
+                  "Departure to": "BOM",
+                  "Departure Time": "18:10",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:6971572223169527835",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:90",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 300941312 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 93, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "14:10",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 6356",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "IXZ",
+                  "Departure Time": "11:35",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1292533093055332367",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:93"
+              },
+              "end": {
+                "identity": { "low": 93, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOPB",
+                  "iata_code": "IXZ",
+                  "city_name": "Port Blair",
+                  "airport_name": "Port Blair Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:93"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 93, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOPB",
+                  "iata_code": "IXZ",
+                  "city_name": "Port Blair",
+                  "airport_name": "Port Blair Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:93"
+              },
+              "relationship": {
+                "identity": { "low": 27, "high": 1630011392 },
+                "start": { "low": 93, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "18:20",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 5286",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "IXZ",
+                  "Departure to": "BOM",
+                  "Departure Time": "14:55",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:7000845620747436059",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:93",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 301989888 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 95, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "09:25",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 405",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "RPR",
+                  "Departure Time": "07:30",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1297036692682702863",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:95"
+              },
+              "end": {
+                "identity": { "low": 95, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VARP",
+                  "iata_code": "RPR",
+                  "city_name": "Raipur",
+                  "airport_name": "Raipur Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:95"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 95, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VARP",
+                  "iata_code": "RPR",
+                  "city_name": "Raipur",
+                  "airport_name": "Raipur Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:95"
+              },
+              "relationship": {
+                "identity": { "low": 95, "high": 270008320 },
+                "start": { "low": 95, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "23:00",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 5049",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "RPR",
+                  "Departure to": "BOM",
+                  "Departure Time": "21:00",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1159676904047902815",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:95",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 295174144 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 110, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "22:30",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 838",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "JAI",
+                  "Departure Time": "20:00",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1267763295104794639",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:110"
+              },
+              "end": {
+                "identity": { "low": 110, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VIJP",
+                  "iata_code": "JAI",
+                  "city_name": "Jaipur",
+                  "airport_name": "Sanganeer Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:110"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 110, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VIJP",
+                  "iata_code": "JAI",
+                  "city_name": "Jaipur",
+                  "airport_name": "Sanganeer Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:110"
+              },
+              "relationship": {
+                "identity": { "low": 110, "high": 276824064 },
+                "start": { "low": 110, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "19:40",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 5324",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "JAI",
+                  "Departure to": "BOM",
+                  "Departure Time": "17:50",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1188950301625811054",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:110",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 117, "high": 1612185600 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 117, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "21:30",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 486",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "BLR",
+                  "Departure to": "NAG",
+                  "Departure Time": "19:45",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:6924284427082137717",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:117"
+              },
+              "end": {
+                "identity": { "low": 117, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VANP",
+                  "iata_code": "NAG",
+                  "city_name": "Nagpur",
+                  "airport_name": "Sonegaon Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:117"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 117, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VANP",
+                  "iata_code": "NAG",
+                  "city_name": "Nagpur",
+                  "airport_name": "Sonegaon Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:117"
+              },
+              "relationship": {
+                "identity": { "low": 117, "high": 269484032 },
+                "start": { "low": 117, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "22:40",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 5302",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "NAG",
+                  "Departure to": "BOM",
+                  "Departure Time": "21:10",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1157425104234217589",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:117",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 305659904 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 122, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "22:15",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 6626",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "TRV",
+                  "Departure Time": "20:55",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1312799291378499599",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:122"
+              },
+              "end": {
+                "identity": { "low": 122, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOTV",
+                  "iata_code": "TRV",
+                  "city_name": "Trivandrum",
+                  "airport_name": "Thiruvananthapuram International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:122"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 122, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOTV",
+                  "iata_code": "TRV",
+                  "city_name": "Trivandrum",
+                  "airport_name": "Thiruvananthapuram International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:122"
+              },
+              "relationship": {
+                "identity": { "low": 122, "high": 268959744 },
+                "start": { "low": 122, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "14:55",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 5108",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "TRV",
+                  "Departure to": "BOM",
+                  "Departure Time": "12:40",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1155173304420532346",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:122",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 305135616 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 124, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "20:15",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 7165",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "ATR72",
+                  "Arriving from": "BLR",
+                  "Departure to": "TRZ",
+                  "Departure Time": "19:00",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1310547491564814351",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:124"
+              },
+              "end": {
+                "identity": { "low": 124, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOTR",
+                  "iata_code": "TRZ",
+                  "city_name": "Trichy",
+                  "airport_name": "Trichy Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:124"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 124, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOTR",
+                  "iata_code": "TRZ",
+                  "city_name": "Trichy",
+                  "airport_name": "Trichy Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:124"
+              },
+              "relationship": {
+                "identity": { "low": 27, "high": 1629487104 },
+                "start": { "low": 124, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "17:40",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 541",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "TRZ",
+                  "Departure to": "BOM",
+                  "Departure Time": "15:50",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:6998593820933750811",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:124",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 307232768 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 126, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "17:50",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 807",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "BLR",
+                  "Departure to": "BDQ",
+                  "Departure Time": "15:45",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1319554690819555343",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:126"
+              },
+              "end": {
+                "identity": { "low": 126, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABO",
+                  "iata_code": "BDQ",
+                  "city_name": "Vadodara",
+                  "airport_name": "Vadodara Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:126"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 126, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABO",
+                  "iata_code": "BDQ",
+                  "city_name": "Vadodara",
+                  "airport_name": "Vadodara Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:126"
+              },
+              "relationship": {
+                "identity": { "low": 27, "high": 1625817088 },
+                "start": { "low": 126, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "22:05",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 5219",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BDQ",
+                  "Departure to": "BOM",
+                  "Departure Time": "21:00",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:6982831222237954075",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:126",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 307757056 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 127, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "15:00",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 897",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "VNS",
+                  "Departure Time": "12:35",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1321806490633240591",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:127"
+              },
+              "end": {
+                "identity": { "low": 127, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VIBN",
+                  "iata_code": "VNS",
+                  "city_name": "Varanasi",
+                  "airport_name": "Varanasi Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:127"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 127, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VIBN",
+                  "iata_code": "VNS",
+                  "city_name": "Varanasi",
+                  "airport_name": "Varanasi Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:127"
+              },
+              "relationship": {
+                "identity": { "low": 127, "high": 270532608 },
+                "start": { "low": 127, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "16:55",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 6544",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "VNS",
+                  "Departure to": "BOM",
+                  "Departure Time": "14:40",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1161928703861588095",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:127",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    },
+    {
+      "keys": ["paths"],
+      "length": 1,
+      "_fields": [
+        {
+          "start": {
+            "identity": { "low": 15, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VOBG",
+              "iata_code": "BLR",
+              "city_name": "Bangalore",
+              "airport_name": "Bengaluru International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+          },
+          "end": {
+            "identity": { "low": 27, "high": 0 },
+            "labels": ["Airport"],
+            "properties": {
+              "icao_code": "VABB",
+              "iata_code": "BOM",
+              "city_name": "Mumbai",
+              "airport_name": "Chhatrapati Shivaji International Airport"
+            },
+            "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+          },
+          "segments": [
+            {
+              "start": {
+                "identity": { "low": 15, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VOBG",
+                  "iata_code": "BLR",
+                  "city_name": "Bangalore",
+                  "airport_name": "Bengaluru International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15"
+              },
+              "relationship": {
+                "identity": { "low": 15, "high": 308805632 },
+                "start": { "low": 15, "high": 0 },
+                "end": { "low": 129, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "17:55",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 969",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A320N",
+                  "Arriving from": "BLR",
+                  "Departure to": "VTZ",
+                  "Departure Time": "16:25",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:1326310090260611087",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:15",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:129"
+              },
+              "end": {
+                "identity": { "low": 129, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VEVZ",
+                  "iata_code": "VTZ",
+                  "city_name": "Vishakhapatnam",
+                  "airport_name": "Vishakhapatnam Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:129"
+              }
+            },
+            {
+              "start": {
+                "identity": { "low": 129, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VEVZ",
+                  "iata_code": "VTZ",
+                  "city_name": "Vishakhapatnam",
+                  "airport_name": "Vishakhapatnam Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:129"
+              },
+              "relationship": {
+                "identity": { "low": 27, "high": 1628438528 },
+                "start": { "low": 129, "high": 0 },
+                "end": { "low": 27, "high": 0 },
+                "type": "Flight",
+                "properties": {
+                  "Operator": "IGO",
+                  "Arriving Time": "17:20",
+                  "Effective To": "30-03-2024",
+                  "Flight No": "6E 5247",
+                  "frq": { "low": 1234567, "high": 0 },
+                  "Aircraft Type": "A321",
+                  "Arriving from": "VTZ",
+                  "Departure to": "BOM",
+                  "Departure Time": "15:10",
+                  "Effective from": "29-10-2023"
+                },
+                "elementId": "5:0ddf47c8-6ce8-41de-bae1-77e10e59339d:6994090221306380315",
+                "startNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:129",
+                "endNodeElementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              },
+              "end": {
+                "identity": { "low": 27, "high": 0 },
+                "labels": ["Airport"],
+                "properties": {
+                  "icao_code": "VABB",
+                  "iata_code": "BOM",
+                  "city_name": "Mumbai",
+                  "airport_name": "Chhatrapati Shivaji International Airport"
+                },
+                "elementId": "4:0ddf47c8-6ce8-41de-bae1-77e10e59339d:27"
+              }
+            }
+          ],
+          "length": 2
+        }
+      ],
+      "_fieldLookup": { "paths": 0 }
+    }
+  ],
+  "summary": {
+    "query": {
+      "text": "MATCH paths = (n1 {iata_code: \"BLR\"})-[*1..2]->(n2 {iata_code: \"BOM\"})\n    RETURN paths",
+      "parameters": {}
+    },
+    "queryType": "r",
+    "counters": {
+      "_stats": {
+        "nodesCreated": 0,
+        "nodesDeleted": 0,
+        "relationshipsCreated": 0,
+        "relationshipsDeleted": 0,
+        "propertiesSet": 0,
+        "labelsAdded": 0,
+        "labelsRemoved": 0,
+        "indexesAdded": 0,
+        "indexesRemoved": 0,
+        "constraintsAdded": 0,
+        "constraintsRemoved": 0
+      },
+      "_systemUpdates": 0
+    },
+    "updateStatistics": {
+      "_stats": {
+        "nodesCreated": 0,
+        "nodesDeleted": 0,
+        "relationshipsCreated": 0,
+        "relationshipsDeleted": 0,
+        "propertiesSet": 0,
+        "labelsAdded": 0,
+        "labelsRemoved": 0,
+        "indexesAdded": 0,
+        "indexesRemoved": 0,
+        "constraintsAdded": 0,
+        "constraintsRemoved": 0
+      },
+      "_systemUpdates": 0
+    },
+    "plan": false,
+    "profile": false,
+    "notifications": [],
+    "server": {
+      "address": "0c6336c2.databases.neo4j.io:7687",
+      "agent": "Neo4j/5.16-aura",
+      "protocolVersion": 5.4
+    },
+    "resultConsumedAfter": { "low": 18, "high": 0 },
+    "resultAvailableAfter": { "low": 185, "high": 0 },
+    "database": { "name": "neo4j" }
+  }
+}
