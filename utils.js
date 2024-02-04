@@ -66,7 +66,7 @@ export async function getPaths(src, dst) {
   //each path obj contains: keys,length,_fields,_fieldLookup
 }
 
-getPaths();
+// getPaths();
 
 //the object we need to format:
 // {
