@@ -9,7 +9,7 @@ app.use(cors({ origin: "*" }));
 app.use(express.json());
 
 app.get("/", async (req, res) => {
-  const { source, destination } = req.body;
+  const { source, destination } = req.query;
   const result = await getPaths(source, destination);
   res.json(result);
 });
