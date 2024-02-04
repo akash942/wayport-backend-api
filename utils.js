@@ -15,7 +15,7 @@ const session = driver.session();
 export async function getPaths(src, dst) {
   const query1BlrToBom  = `MATCH paths = (n1 {iata_code: "BLR"})-[*1..2]->(n2 {iata_code: "BOM"})
   RETURN paths`
-  const query2 = `MATCH paths = (n1 {city: ${src}})-[*1..3]->(n2 {city: ${dst}})
+  const query2 = `MATCH paths = (n1 {city: "${src}"})-[*1..3]->(n2 {city: "${dst}"})
   RETURN paths`
   const response =
     await session.run(query2);
